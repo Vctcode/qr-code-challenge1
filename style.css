@@ -17,7 +17,7 @@ body {
 
 div.container {
     position: relative;
-    margin: 12vh auto 12vh;
+    margin: 14vh auto 12vh;
     width: 300px;
     height: 470px;
     background: var(--white);
@@ -42,11 +42,14 @@ div.text {
 div.text h3 {
     font-family: 'Outfit', Arial, Helvetica, sans-serif;
     font-weight: 700;
+    font-size: larger;
+    color: var(--dark-blue);
 }
 
 div.text p {
     font-family: 'Outfit', Arial, Helvetica, sans-serif;
     font-size: 15px;
+    color: var(--grayish-blue);
 }
 
 .attribution {
