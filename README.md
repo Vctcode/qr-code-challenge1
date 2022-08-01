@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Vctcode/qr-code-component-main
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
@@ -67,4 +67,4 @@ div.container {
 ## Author
 
 - Website - [Victor Oderinde](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Vctcode)
+- Frontend Mentor - [@Vctcode](https://www.frontendmentor.io/profile/Vctcode)
